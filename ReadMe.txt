@@ -1,5 +1,5 @@
 Integrantes del grupo: 
 
 - Naylui Osuna.
-- Aaron Jeremias Mercado.
+- Aron Jeremias Mercado.
 - Germán Emanuel Liendo.
